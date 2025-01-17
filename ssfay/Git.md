@@ -105,7 +105,7 @@ $ git commit -m "second commit"
   
   
   
-  ```bash
+```bash
   SSAFY@2□□099 MINGW64 ~/Desktop/git-practice (master)
   $ git log
   commit 8b69eb9a39cb0c9002bfa90a832b6338452972a9 (HEAD -> master)
